@@ -1,0 +1,6 @@
+train-test.csv
+validation.csv
+validation-predictions-template.csv
+december-chart-inputs.csv
+.ipynb_checkpoints/
+__pycache__/
